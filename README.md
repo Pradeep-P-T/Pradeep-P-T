@@ -2,7 +2,7 @@
 
 🎓 Final Year Computer Science Student  
 💡 Passionate about solving real-world problems with technology  
-🚀 Exploring AI, App Development, and Full Stack Web
+🚀 Exploring AI, App Development, and Full Stack Web Development
 
 ---
 
